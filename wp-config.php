@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'haluapress' );
+define( 'DB_NAME', 'perusta_yritys' );
 
 /** MySQL database username */
-define( 'DB_USER', 'halua@haluabase' );
+define( 'DB_USER', 'perustayritys@perustadb' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'cu+eEye82' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'haluabase.mysql.database.azure.com' );
+define( 'DB_HOST', 'perustadb.mysql.database.azure.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
